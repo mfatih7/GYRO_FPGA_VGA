@@ -1,6 +1,6 @@
 # GYRO_FPGA_VGA
 
-[LISY300AL Single-Axis Gyro](https://www.pololu.com/product/765)
+LISY300 Single-Axis Gyro
 
 Xilinx Spartan 3E Starter Kit
 
